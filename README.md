@@ -1,6 +1,5 @@
 # Personal-AI-Search 
 - "Less is More! There is no agent framework at all; only individual simple API call methods."
-- ![](https://img.picui.cn/free/2025/02/21/67b82e8bc2d27.jpg)
 
 ## Project Overview
 Personal Agentic search assistant based on GPT-4o and DeepSeek-R1. This project aims to provide a powerful and flexible search assistant that leverages advanced AI models to enhance search capabilities.
@@ -83,3 +82,5 @@ Personal-AI-Search/
 2. Access API endpoints:
    - By default, the API runs at `http://localhost:5000`.
    - Use API documentation or client tools (e.g., Postman) to test endpoints.
+
+![](https://img.picui.cn/free/2025/02/21/67b82e8bc2d27.jpg)
