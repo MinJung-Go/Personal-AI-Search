@@ -83,4 +83,4 @@ Personal-AI-Search/
    - By default, the API runs at `http://localhost:5000`.
    - Use API documentation or client tools (e.g., Postman) to test endpoints.
 
-![](https://img.picui.cn/free/2025/02/21/67b82e8bc2d27.jpg)
+![20250221-154211.jpg](https://img.picui.cn/free/2025/02/21/67b82e8bc2d27.jpg)
