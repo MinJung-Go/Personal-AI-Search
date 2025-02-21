@@ -1,0 +1,14 @@
+django==3.0.3
+requests
+redis
+langid
+openai
+asyncio
+gunicorn
+fastapi
+uvicorn
+tiktoken
+concurrent_log_handler
+chainlit==2.0.0
+json_repair
+pydantic
