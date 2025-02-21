@@ -55,7 +55,6 @@ Personal-AI-Search/
     - **__init__.py**: Initializes the tools module.
     - **web_search.py**: Web search tool.
 - **utils**: Contains utility functions and helpers.
-  - **ffs.py**: Filesystem utilities.
   - **log_utils.py**: Logging utilities.
   - **utils.py**: General utility functions.
 - **.gitignore**: List of ignored files.
@@ -80,7 +79,6 @@ Personal-AI-Search/
    chainlit run app/api/app.py -w --port 5000
    ```
 2. Access API endpoints:
-   - By default, the API runs at `http://localhost:5000`.
-   - Use API documentation or client tools (e.g., Postman) to test endpoints.
+   - By default, the Web Demo runs at `http://localhost:5000`.
 
 ![20250221-154211.jpg](https://img.picui.cn/free/2025/02/21/67b82e8bc2d27.jpg)
