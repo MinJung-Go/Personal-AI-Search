@@ -4,6 +4,9 @@
 ## Project Overview
 Personal Agentic search assistant based on GPT-4o and DeepSeek-R1. This project aims to provide a powerful and flexible search assistant that leverages advanced AI models to enhance search capabilities.
 
+Before answering user questions, conduct brief thinking to generate necessary search keywords (optionally introduce an additional search-thinking Agent, e.g. DeepSeek-R1, to deeply analyze potential search pathways and keywords before extraction); then utilize Web retrieval tools through Func Call to acquire knowledge; finally, answer user questions based on retrieved knowledge (optionally introduce an additional summarization Agent, e.g. DeepSeek-R1, to perform preliminary thinking and response generation before the Master Agent's final answer); 【Lightweight Version of AI Search】
+
+
 ## Project Structure
 ```
 Personal-AI-Search/
