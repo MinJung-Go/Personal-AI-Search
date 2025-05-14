@@ -83,5 +83,3 @@ Personal-AI-Search/
    ```
 2. Access API endpoints:
    - By default, the Web Demo runs at `http://localhost:5000`.
-
-![20250221-154211.jpg](https://img.picui.cn/free/2025/02/21/67b82e8bc2d27.jpg)
